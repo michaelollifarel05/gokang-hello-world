@@ -1,3 +1,3 @@
 FROM nginx:latest
 
-COPY main.go /app/
+COPY . /app/
