@@ -1,3 +1,3 @@
 FROM nginx:latest
 
-COPY $PWD/ /app/
+COPY main.go /app/
